@@ -32,7 +32,7 @@ sono appassionato di tecnologia fin da bambino e attualmente mi occupo di reti n
 
 ## Alcuni fatti su di me 👨🏻‍💻
 
-- Adoro scoprire cose nuove, lavorare in gruppo e acquisire nuove conoscenze. Fluente in inglese, mi piace conoscere nuove culture, persone e avere nuove esperienze.". 😄
+- Adoro scoprire cose nuove, lavorare in gruppo e acquisire nuove conoscenze. Fluente in inglese, mi piace conoscere nuove culture, persone e avere nuove esperienze. 😄
 
 - Appassionato di tutto ciò che è Tech-Related 💻
 
