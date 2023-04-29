@@ -7,9 +7,10 @@
 
 <hr>
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/DavideMangano)](https://www.facebook.com/davide.mangano.5)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/DavideMangano)](https://instagram.com/flexdaviss?igshid=NzMyMjgxZWIzNw==)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/DavideMangano)](https://www.linkedin.com/in/davide-m-a56618111)
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/DavideMangano)](https://www.facebook.com/davide.mangano.5){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/DavideMangano)](https://instagram.com/flexdaviss?igshid=NzMyMjgxZWIzNw==){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/DavideMangano)](https://www.linkedin.com/in/davide-m-a56618111){:target="_blank"}
+
 
 </h4>
 
