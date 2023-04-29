@@ -28,7 +28,7 @@ sono appassionato di tecnologia fin da bambino e attualmente mi occupo di reti n
 
 - TensorFlow
 - Keras
-- Python in generale
+- Python
 
 ## Alcuni fatti su di me 👨🏻‍💻
 
