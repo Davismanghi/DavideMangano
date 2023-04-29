@@ -7,7 +7,7 @@
 
 <hr>
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/CriDwayne)]([https://www.facebook.com/profile.php?id=100080659232288](https://www.facebook.com/davide.mangano.5))
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/CriDwayne)](https://www.facebook.com/profile.php?id=100080659232288)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/CriDwayne)](https://instagram.com/flexdaviss?igshid=NzMyMjgxZWIzNw==)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/CriDwayne)](https://www.linkedin.com/in/davide-m-a56618111)
 
