@@ -1,5 +1,4 @@
 # DavideMangano
- <base target="_blank">
 
 <h4 align="center">
  
