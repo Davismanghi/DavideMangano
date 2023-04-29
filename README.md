@@ -7,47 +7,32 @@
 
 <hr>
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/CriDwayne)](https://www.facebook.com/profile.php?id=100080659232288)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/CriDwayne)](https://www.instagram.com/cri.dantonio/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/CriDwayne)](https://www.linkedin.com/in/cristian-d-antonio-346268166/)
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/CriDwayne)]([https://www.facebook.com/profile.php?id=100080659232288](https://www.facebook.com/davide.mangano.5))
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/CriDwayne)](https://instagram.com/flexdaviss?igshid=NzMyMjgxZWIzNw==)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/CriDwayne)](https://www.linkedin.com/in/davide-m-a56618111)
 
 </h4>
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Cristian! 🇧🇷
+Ciao, sono Davide!
 <br>
 
 </h3>
 
 ```
-Estudante de Analise e Desenvolvimento de Sistema (ADS), 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev web e mobile.
+Laureato magistrale in Computer Engineering al Politecnico di Milano, 
+sono appassionato di tecnologia fin da bambino e attualmente mi occupo di reti neurali e apprendimento automatico.
 ```
-## Tecnologias que estou estudando atualmente 💻
+## Tecnologie che sto studiando attualmente 💻
 
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Flutter
-  - Firebase
-  - NodeJS
-  - MongoDB
-  - MySQL
-  - C#
+- TensorFlow
+- Keras
+- Python in generale
 
-## Alguns fatos sobre mim 👨🏻‍💻
+## Alcuni fatti su di me 👨🏻‍💻
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
+- Adoro scoprire cose nuove, lavorare in gruppo e acquisire nuove conoscenze. Fluente in inglese, mi piace conoscere nuove culture, persone e avere nuove esperienze.". 😄
 
-- Estou cursando Analise e Desenvolvimento de Sistema. 💻
+- Appassionato di tutto ciò che è Tech-Related 💻
 
-
-## Meus dados no Github
-
-<!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-</span> -->
-
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CriDevs&show_icons=true&theme=tokyonight)
