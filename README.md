@@ -15,24 +15,23 @@
 
 <h3 align="center">  <br>
 
-Ciao, sono Davide!
+Hello, I am Davide!
 <br>
 
 </h3>
 
 ```
-Laureato magistrale in Computer Engineering al Politecnico di Milano, 
-sono appassionato di tecnologia fin da bambino e attualmente mi occupo di reti neurali e apprendimento automatico.
+I hold a Master's degree in Computer Engineering from the Polytechnic University of Milan. I have been passionate about technology since I was a child and currently I am working on neural networks and machine learning.
 ```
-## Tecnologie che sto studiando attualmente 💻
+## Technologies I am studying recently 💻
 
 - TensorFlow
 - Keras
 - Python
 
-## Alcuni fatti su di me 👨🏻‍💻
+## Some facts about me 👨🏻‍💻
 
-- Adoro scoprire cose nuove, lavorare in gruppo e acquisire nuove conoscenze. Fluente in inglese, mi piace conoscere nuove culture, persone e avere nuove esperienze. 😄
+- I love discovering new things, working in groups, and acquiring new knowledge. I am fluent in English and enjoy learning about new cultures, meeting new people, and having new experiences. 😄
 
-- Appassionato di tutto ciò che è Tech-Related 💻
+- I am passionate about everything that is Tech-Related 💻
 
