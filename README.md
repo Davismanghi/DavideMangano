@@ -2,7 +2,7 @@
 
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](Mario.gif)
 
 <hr>
 
@@ -28,10 +28,11 @@ I hold a Master's degree in Computer Engineering from the Polytechnic University
 - TensorFlow
 - Keras
 - Python
+- MLFlow
 
 ## Some facts about me 👨🏻‍💻
 
-- I love discovering new things, working in groups, and acquiring new knowledge. I am fluent in English and enjoy learning about new cultures, meeting new people, and having new experiences. 😄
+- I love discovering new things, working in groups, and acquiring new knowledge. I am fluent in English and enjoy meeting new people and having new experiences. 😄
 
-- I am passionate about everything that is Tech-Related 💻
+- I am passionate about everything that is related to Machine Learning, with a particular weakness for Deep Learning 💻
 
